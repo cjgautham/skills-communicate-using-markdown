@@ -9,58 +9,16 @@
 
 # Communicate using Markdown
 
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting
+_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+
 </header>
 
-<!-
-start-markdown
-  << Author notes: Step 4  main
+<!--
+  <<< Author notes: Step 4 >>>
   Start this step by acknowledging the previous step.
-  Define terms and l
-start-markdown
-## Step 3: Add a code example
+  Define terms and link to docs.github.com.
+-->
 
-_Great job adding an image to the file :tada:_
-
-Let's add some code blocks. Code blocks can render differently depending on the language.
-
-### Example 1
-
-<pre>
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
-</pre>
-
-#### How it looks
-
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
-
-### Example 2
-
-<pre>
-``` javascript
-var myVar = "Hello, world!";
-```
-</pre>
-
-#### How it looks
-
-```javascript
-var myVar = "Hello, world!";
-```
-
-### :keyboard: Activity: Adding a code example
-
-1. As you did before, edit the file in this pull request.
-1. In the file, add the correct Markdown for a code example of your choice.
-1. Use the **Preview** tab to check your Markdown formatting.
-1. Commit your changes.
-=======
 ## Step 4: Make a task list
 
 _Great job adding a code example to the file :partying_face:_
@@ -98,7 +56,6 @@ GitHub Actions went ahead and made a branch for you. So you'll need to add to th
 
 1. Use the **Preview** tab to check your Markdown formatting.
 1. Commit the changes to the file.
-
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
